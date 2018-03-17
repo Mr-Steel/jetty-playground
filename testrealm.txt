@@ -1,0 +1,2 @@
+admin: adminpasse,admin,user
+user1: secret,user
